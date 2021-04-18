@@ -1,4 +1,4 @@
-# Data-Pipelines-Projec with Airflow
+# Data-Pipeline-Project with Airflow
  The project contain a piplene  to build a data schema for or music app data analysis.
  
  ### Architecture description: 
