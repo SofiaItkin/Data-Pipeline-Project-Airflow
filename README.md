@@ -10,8 +10,7 @@
      4.Redshift - The final data is stored in redshift and can be queried using Amazon Athena.
   
   
-  
-  ![image](https://user-images.githubusercontent.com/57598804/115142539-fc8c2880-a04a-11eb-87af-ba3fd4267304.png)
+![תמונה](https://user-images.githubusercontent.com/57598804/116536602-d0e02c80-a8ed-11eb-85e6-d26d1cb87c45.JPG)
 
   
  
